@@ -1,3 +1,3 @@
 git add .
-git commit -m "debug"
+git commit -m "lock"
 git push origin main
